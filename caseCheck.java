@@ -10,7 +10,7 @@ public class caseCheck {
             System.out.println("Lower latter");
         }else{
             
-            //Message
+            //Messages
             System.out.println("Upper case");
         }
         System.out.println();
