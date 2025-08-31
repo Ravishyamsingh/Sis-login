@@ -1,5 +1,8 @@
 
 
+
+
+
 import java.util.Scanner;
 // 
 public class caseCheck {
@@ -25,4 +28,5 @@ public class caseCheck {
  
     }
 }
+
 
