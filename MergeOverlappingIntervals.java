@@ -1,3 +1,6 @@
+
+
+
 import java.util.*;
 
 public class MergeOverlappingIntervals
@@ -91,3 +94,4 @@ class IntervalComparator implements Comparator<Interval>
         return i1.getStart() - i2.getStart();
     }
 }
+
