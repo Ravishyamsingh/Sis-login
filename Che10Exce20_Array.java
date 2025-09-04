@@ -1,6 +1,3 @@
-
-
-
 import java.util.*;
 
 public class Che10Exce20_Array {
@@ -24,4 +21,5 @@ public class Che10Exce20_Array {
         System.out.printf("\n");
     }
 }
+
 
