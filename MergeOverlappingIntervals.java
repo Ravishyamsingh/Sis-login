@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 import java.util.*;
 
 public class MergeOverlappingIntervals
