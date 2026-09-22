@@ -1,7 +1,4 @@
 
-
-
-
 import java.util.*;
 class DistinctWaysClimbStairs {
     // Static method to calculate the distinct ways to climb stairs
